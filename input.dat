@@ -1,0 +1,11 @@
+200  ! imax
+0.0   ! x0
+1.0   ! x1
+4   ! nVar
+0.9 ! CFL
+0.16   ! tEnd
+1e-4  ! relaxation 
+0.35   ! ampl
+100   ! sigma
+20    ! ODE tot iter
+1e-6
